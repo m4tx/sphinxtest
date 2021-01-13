@@ -12,7 +12,6 @@ Welcome to testproject's documentation!
 
    functions.rst
    strings.rst
-   formatting/index.rst
    api/modules.rst
 
 
